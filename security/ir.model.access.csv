@@ -1,1 +1,6 @@
-nb ,nb 
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+
+access_account_invoice_tax_public,account.account_invoice_tax.public,account.model_account_invoice_tax,,1,0,0,0
+access_account_tax_public,account.account_tax.public,account.model_account_tax,,1,0,0,0
+access_account_tax_group,account.account_tax_group.public,account.model_account_tax_group,,1,0,0,0
+
