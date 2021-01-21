@@ -1,0 +1,12 @@
+<odoo>
+	<data>
+
+
+      <function
+          id="pos_website_demo"
+          model="pos.order"
+          name="pos_website_demo"
+      />
+  
+	</data>
+</odoo>
